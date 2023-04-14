@@ -14,18 +14,18 @@
 #### 6. Back to spring-boot project and go to application.properties.
 ####     6.1 Specify a server port.
 ####     6.2 Specify a DataSource Configuration (remember your username and password carefully!).
-###3 7. Coding all layers and ready to run your project!
+#### 7. Coding all layers and ready to run your project!
 #### 8. Go to Postman and choose http request as you want (GET, POST, PUT, DELETE)
 #### 9. After did the http request using Postman, then you can get back to MySQLWorkbench and run to check the content in your table.
 
 ### Where to run a project?
 <img width="308" alt="Screenshot 2023-04-14 at 23 36 46" src="https://user-images.githubusercontent.com/122346708/232104640-1d12378c-9f68-4509-9874-7db51b1487a1.png">
 
-### Also can run a project here
+### Also can run a project here!
 <img width="544" alt="Screenshot 2023-04-14 at 23 41 10" src="https://user-images.githubusercontent.com/122346708/232105490-8ec88e6b-1bd7-4cdb-bde9-2ead31745536.png">
 
 
 ### 🛠️ Tools Used 🛠️ :
-#### Visaul Studio Code
+#### Visaul Studio Code 
 #### MySQLWorkbench
 #### Postman
