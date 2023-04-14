@@ -3,7 +3,7 @@
 ### 🪜Quick steps before build a spring boot project!
 #### 1. install Visual Studio Code
 #### 2. install an extensions such as Java extension pack and Spring Boot extension pack
-
+<img width="580" src="https://user-images.githubusercontent.com/122346708/232107876-d16dba52-192f-46fb-9233-33cfa5349970.png"> <img width="580" src="https://user-images.githubusercontent.com/122346708/232107884-1259202f-1a5a-4520-87de-1f4f084d2a69.png">
 
 ### 💡To build a spring boot project!
 #### 1. Click Create Java Project button.
@@ -19,10 +19,10 @@
 #### 9. After did the http request using Postman, then you can get back to MySQLWorkbench and run to check the content in your table.
 
 ### Where to run a project?
-<img width="308" alt="Screenshot 2023-04-14 at 23 36 46" src="https://user-images.githubusercontent.com/122346708/232104640-1d12378c-9f68-4509-9874-7db51b1487a1.png">
+<img width="308" src="https://user-images.githubusercontent.com/122346708/232104640-1d12378c-9f68-4509-9874-7db51b1487a1.png">
 
 ### Also can run a project here!
-<img width="544" alt="Screenshot 2023-04-14 at 23 41 10" src="https://user-images.githubusercontent.com/122346708/232105490-8ec88e6b-1bd7-4cdb-bde9-2ead31745536.png">
+<img width="544" src="https://user-images.githubusercontent.com/122346708/232105490-8ec88e6b-1bd7-4cdb-bde9-2ead31745536.png">
 
 
 ### 🛠️ Tools Used 🛠️ :
