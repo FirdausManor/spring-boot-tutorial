@@ -4,8 +4,9 @@
 #### 1. install Visual Studio Code
 #### 2. install an extensions such as Java extension pack and Spring Boot extension pack
 
+
 ### 💡To build a spring boot project!
-#### 1. click Create Java Project.
+#### 1. Click Create Java Project button.
 #### 2. Select the project type > Spring Boot > Maven Project > Specify your spring boot version (mine is 3.0.5) > Java > com.example > demo > Jar > 17 (Java version) > Select dependencies such as Spring Web, Spring Data JPA, Lombok, MySQL Driver
 #### 3. Go to src/main/java then create folders > 1. model or entity 2. repository 3. service 4. controller
 #### 4. Start coding in model or entity 's layer.
