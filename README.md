@@ -26,6 +26,5 @@
 
 
 ### 🛠️ Tools Used 🛠️ :
-#### Visaul Studio Code 
-#### MySQLWorkbench
-#### Postman
+#### Visaul Studio Code, MySQLWorkbench and Postman
+<img width="50" height="50" src="https://user-images.githubusercontent.com/122346708/232232661-440c4d4d-1ef0-48db-bbdc-88d765aa87af.jpg"> <img width="50" height="50" src="https://user-images.githubusercontent.com/122346708/232232663-39d160f1-a644-4c7e-ac53-70be7cf9e348.png"> <img width="50" height="50" src="https://user-images.githubusercontent.com/122346708/232232678-2ac95237-afe3-4c3c-96c6-9b749a687ea9.svg">
