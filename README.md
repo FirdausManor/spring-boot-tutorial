@@ -29,8 +29,6 @@
 #### it will display a table in your MySQLWorkbench!
 
 ```
--- MySQL dump 10.13  Distrib 8.0.24, for macos11 (x86_64)
---
 -- Host: localhost    Database: customer_service
 -- ------------------------------------------------------
 -- Server version	8.0.24
